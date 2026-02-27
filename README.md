@@ -135,6 +135,21 @@ Esp32-Sim-Tool/
 - Modern web browser (Chrome, Firefox, Edge, Safari)
 - Node.js (optional for local development server)
 
+## Sources and Mentions
+
+Source code is my personal build of an IDE Web interface and has no derivitives, copies, or other material that is not from my own intellectual meterial encompassing except for credited entities mentioned in disclaimer and source. Please note that this is an educactional tool to teach/learn developement with esp32 microcontroller using Arduino code. 
+   All ESP and mentions are strictly the IP of Espressif Systems and used as basis for the project along side the Arduino programming format of this project.
+   
+   <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png"/>
+   Copyright © 2026 Espressif Systems. All rights reserved.
+   <img src="blob:chrome-untrusted://media-app/fb204ede-45a7-4e25-b557-5f5d5fc66981" alt="logos.svg"/>
+   Arduino used as basis along with terms of creative commons liscence. © 2026 Arduino 
+
+ESP32 Diagrams provided by Xecor: https://www.xecor.com/blog/esp32-pinout-diagram
+COPYRIGHT @ 2026 XECOR CO,.LTD All RIGHTS RESERVED
+
+ESP32 C3-Supermini Diagrams by Micro Robotics: https://www.robotics.org.za/ESP32-C3-SMINI-V2
+Micro Robotics © 2026
 ## License
 
 MIT License - See LICENSE file for details
